@@ -1,0 +1,22 @@
+[
+    {
+      "estado": "confirmado",
+      "demandado": "jorge",
+      "id": "123456789",
+      "monto": "10000000",
+      "cuenta": "7774447785",
+      "demandante": "juan",
+      "id2": "987654321",
+      "cartas": "3"
+    },
+    {
+      "estado": "anulado",
+      "demandado": "jorge2",
+      "id": "123456789",
+      "monto": "10000000",
+      "cuenta": "7774447785",
+      "demandante": "juan",
+      "id2": "987654321",
+      "cartas": "2"
+    }
+  ]

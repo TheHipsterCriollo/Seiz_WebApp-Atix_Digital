@@ -1,0 +1,42 @@
+[
+    {
+      "embargo ID": "as11asd1a3s",
+      "estado": "confirmado",
+      "demandado": "jorge",
+      "id": "123456789",
+      "monto": "10000000",
+      "cuenta": "7774447785",
+      "demandante": "juan",
+      "id2": "987654321"
+    },
+    {
+      "embargo ID": "g5d1vsd8vs6",
+      "estado": "anulado",
+      "demandado": "jorge2",
+      "id": "123456789",
+      "monto": "10000000",
+      "cuenta": "7774447785",
+      "demandante": "juan",
+      "id2": "987654321"
+    }, 
+    {
+      "embargo ID": "gng5s8s4dvs6d",
+      "estado": "pendiente",
+      "demandado": "jorge3",
+      "id": "123456789",
+      "monto": "10000000",
+      "cuenta": "7774447785",
+      "demandante": "juan",
+      "id2": "987654321"
+    },
+    {
+      "embargo ID": "n5s1ac9dfa",
+      "estado": "pendiente",
+      "demandado": "jorge4",
+      "id": "123456789",
+      "monto": "10000000",
+      "cuenta": "7774447785",
+      "demandante": "juan",
+      "id2": "987654321"
+    }
+  ]

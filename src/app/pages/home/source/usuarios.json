@@ -1,0 +1,18 @@
+[
+    {
+      "nombre": "Jhon",
+      "apellido": "Smith",
+      "email": "jhonsmith@email.com",
+      "contraseña": "123456789",
+      "foto": "https://bulma.io/images/placeholders/96x96.png",
+      "estado": "activo"
+    },
+    {
+        "nombre": "Sarah",
+        "apellido": "Jane",
+        "email": "sarahjane@email.com",
+        "contraseña": "987654321",
+        "foto": "https://bulma.io/images/placeholders/96x96.png",
+        "estado": "inactivo"
+      }
+]
